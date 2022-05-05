@@ -1,0 +1,12 @@
+# Common
+bin/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
