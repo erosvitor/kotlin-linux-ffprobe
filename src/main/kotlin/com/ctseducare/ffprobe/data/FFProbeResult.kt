@@ -1,5 +1,5 @@
-package com.ctseducare.ffprobe.data;
+package com.ctseducare.ffprobe.data
 
 data class FFProbeResult(
-  var format: FFProbeFormat
+    var format: FFProbeFormat
 )
